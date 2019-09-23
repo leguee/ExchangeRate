@@ -1,0 +1,14 @@
+C:\Users\legui\source\repos\ExchangeRate\ExchangeRate\bin\Debug\netcoreapp2.2\ExchangeRate.deps.json
+C:\Users\legui\source\repos\ExchangeRate\ExchangeRate\bin\Debug\netcoreapp2.2\ExchangeRate.runtimeconfig.json
+C:\Users\legui\source\repos\ExchangeRate\ExchangeRate\bin\Debug\netcoreapp2.2\ExchangeRate.runtimeconfig.dev.json
+C:\Users\legui\source\repos\ExchangeRate\ExchangeRate\bin\Debug\netcoreapp2.2\ExchangeRate.dll
+C:\Users\legui\source\repos\ExchangeRate\ExchangeRate\bin\Debug\netcoreapp2.2\ExchangeRate.pdb
+C:\Users\legui\source\repos\ExchangeRate\ExchangeRate\obj\Debug\netcoreapp2.2\ExchangeRate.csproj.CoreCompileInputs.cache
+C:\Users\legui\source\repos\ExchangeRate\ExchangeRate\obj\Debug\netcoreapp2.2\ExchangeRate.RazorAssemblyInfo.cache
+C:\Users\legui\source\repos\ExchangeRate\ExchangeRate\obj\Debug\netcoreapp2.2\ExchangeRate.RazorAssemblyInfo.cs
+C:\Users\legui\source\repos\ExchangeRate\ExchangeRate\obj\Debug\netcoreapp2.2\ExchangeRate.AssemblyInfoInputs.cache
+C:\Users\legui\source\repos\ExchangeRate\ExchangeRate\obj\Debug\netcoreapp2.2\ExchangeRate.AssemblyInfo.cs
+C:\Users\legui\source\repos\ExchangeRate\ExchangeRate\obj\Debug\netcoreapp2.2\ExchangeRate.RazorTargetAssemblyInfo.cache
+C:\Users\legui\source\repos\ExchangeRate\ExchangeRate\obj\Debug\netcoreapp2.2\ExchangeRate.dll
+C:\Users\legui\source\repos\ExchangeRate\ExchangeRate\obj\Debug\netcoreapp2.2\ExchangeRate.pdb
+C:\Users\legui\source\repos\ExchangeRate\ExchangeRate\obj\Debug\netcoreapp2.2\ExchangeRate.csprojAssemblyReference.cache
